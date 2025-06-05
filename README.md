@@ -53,7 +53,6 @@
 
 ```bash
 git clone https://github.com/Goodteacher408/408-exam.git
-cd 408solver
 ```
 
 2. 安装依赖
